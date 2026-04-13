@@ -1,0 +1,27 @@
+ 840  git add.
+  841  clear
+  842  git add .
+  843  git status
+  844  clear
+  845  git commit -m "added testing files"
+  846  clear
+  847  git status
+  848  rm testing.py
+  849  ls
+  850  git status
+  851  git restore testing.py
+  852  ls
+  853  clear
+  854  git status
+
+    923  clear
+  924  git remote -v
+  925  git status
+
+  927  git origin push main
+  928  git push -u origin main
+  929  git push -u origin main
+  930  git branch -M main
+ 
+  937  git push origin main
+  938  clear
